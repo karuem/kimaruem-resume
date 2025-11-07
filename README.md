@@ -24,6 +24,11 @@ C, Java, Python을 중심으로 서버 개발과 데이터 처리 기술을 공�
 | Java | IntelliJ, Eclipse | Spring (학습 중) |
 | Python | VS Code | Flask, Pandas, Matplotlib |
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)
+
 ---
 
 ## 🧠 프로젝트 경험 (Projects)
