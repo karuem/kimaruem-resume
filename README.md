@@ -1,7 +1,10 @@
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffb6b9,100:fddde6&height=230&section=header&text=Kim%20Areum&fontSize=60&fontColor=ffffff&fontAlignY=40&desc=%F0%9F%91%8B%20Welcome%20to%20My%20GitHub%20Profile!&descAlignY=65&descAlign=50"/>
+  <img
+    src="https://capsule-render.vercel.app/api?type=rounded&color=0:ffb6b9,100:fddde6&height=230&section=header&text=Kim%20Areum&fontSize=60&fontColor=ffffff&fontAlignY=40&desc=%F0%9F%91%8B%20Welcome%20to%20My%20GitHub%20Profile!&descAlignY=65&descAlign=50"
+    alt="Kim Areum Banner (rounded)" />
 </p>
+
 
 
 <h2 align="center">👋 안녕하세요, 김아름입니다!</h2>
