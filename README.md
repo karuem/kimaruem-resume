@@ -11,23 +11,46 @@ C, Java, Python을 중심으로 서버 개발과 데이터 처리 기술을 공�
 - **이름**: 김아름  
 - **학교**: 단국대학교 소프트웨어학과 (23학번)  
 - **희망 직무**: 백엔드 개발자  
-- **이메일**: example@email.com  
+- **이메일**: 32230857@dankook.ac.kr  
 - **GitHub**: [https://github.com/karuem](https://github.com/karuem)
 
 ---
 
 ## 💻 기술 스택 (Tech Stack)
 
-| 언어(Language) | 개발 도구/환경 | 프레임워크/라이브러리 |
-|----------------|----------------|----------------|
-| C / C++ | Visual Studio, Linux | — |
-| Java | IntelliJ, Eclipse | Spring (학습 중) |
-| Python | VS Code | Flask, Pandas, Matplotlib |
+### 💡 Platforms & Languages
+<p align="center">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+</p>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)
+### ⚙️ Tools
+<p align="center">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</p>
+
+---
+
+## 🧠 Interests
+- 백엔드 서버 개발 (Java Spring, Flask 학습 중)  
+- 데이터베이스 설계 및 API 연동  
+- 오픈소스 프로젝트 협업 및 코드 문서화  
+
+---
+
+## 🏆 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=karuem&show_icons=true&theme=tokyonight&hide_border=true" width="49%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karuem&layout=compact&theme=tokyonight&hide_border=true" width="49%">
+</p>
 
 ---
 
