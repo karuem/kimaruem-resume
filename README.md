@@ -1,9 +1,6 @@
 # kimaruem-resume
-# 👋 안녕하세요, 김아름입니다!
+<img width="1234" height="344" alt="image" src="https://github.com/user-attachments/assets/ef11728a-22ec-440c-8f63-df0d056a8496" />
 
-단국대학교 소프트웨어학과 23학번 백엔드 개발자 지망생입니다.  
-C, Java, Python을 중심으로 서버 개발과 데이터 처리 기술을 공부하고 있습니다.  
-꾸준히 배우며 성장하는 개발자를 목표로 하고 있습니다.
 
 ---
 
