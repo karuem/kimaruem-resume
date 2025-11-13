@@ -66,10 +66,12 @@
 - 완료 시 메모리 자동 해제 (`malloc`, `free`)  
 - 파일 입출력(`fscanf`, `fprintf`)을 통한 일정 저장 기능 구현  
 
-### 🧮 **PCM 신호 분석 프로그램 (Python, DSP)**
+### 🧮 PCM 신호 분석 프로그램 (Python, DSP)
+> [🔗 GitHub 과제 보기](https://github.com/DKU-IRDM-Classroom/25Fa-CC-Asssignment-1-karuem)
+
 - PCM, DPCM, ADPCM 알고리즘 구현  
 - Shannon-Fano 코딩 기반 데이터 압축  
-- matplotlib을 이용한 신호 시각화  
+- matplotlib을 이용한 신호 시각화
 
 ---
 
