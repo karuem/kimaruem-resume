@@ -76,7 +76,6 @@ matplotlib과 NumPy를 활용하여 PCM 신호 분석 결과를 시각화했으�
 - Python과 Java 기반 서버 프레임워크(Spring, FastAPI 등) 고도화  
 - 학습한 지식을 **프로젝트 기반으로 정리하고 오픈소스 기여**로 이어가기  
 
----
 
 <p align="center">
   <img src="https://img.shields.io/badge/Backend-Java%20%7C%20Python%20%7C%20C-blue?style=flat-square"/>
