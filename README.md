@@ -44,7 +44,7 @@ C, Java, Python을 중심으로 서버 개발과 데이터 처리 기술을 공�
 ## 🏆 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=karuem&show_icons=true&theme=tokyonight&hide_border=true" width="49%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karuem&layout=compact&theme=tokyonight&hide_border=true" width="49%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karuem&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&custom_title=Most%20Used%20Languages&card_width=450" alt="karuem's most used languages" />
 </p>
 
 ---
