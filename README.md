@@ -71,12 +71,6 @@ C, Java, Python을 중심으로 서버 개발과 데이터 처리 기술을 공�
 
 ---
 
-## 🏅 대외활동 / 수상경력
-- 단국대학교 프로그래밍 경진대회 참가 (2025)  
-- 오픈소스 프로젝트 코드 리뷰 참여  
-- GitHub Markdown 기반 문서화 프로젝트 수행  
-
----
 
 ## 🏷️ 뱃지 및 링크
 ![GitHub followers](https://img.shields.io/github/followers/karuem?style=social)
