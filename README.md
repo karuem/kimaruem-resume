@@ -66,6 +66,8 @@
 - 완료 시 메모리 자동 해제 (`malloc`, `free`)  
 - 파일 입출력(`fscanf`, `fprintf`)을 통한 일정 저장 기능 구현  
 
+--- 
+
 ### 🧮 PCM 신호 분석 프로그램 (Python, DSP)
 > [🔗 GitHub 과제 보기](https://github.com/DKU-IRDM-Classroom/25Fa-CC-Asssignment-1-karuem)
 
