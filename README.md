@@ -75,6 +75,17 @@
 
 ---
 
+### 📡 BPSK-FDM 신호 다중화 프로그램 (Python, CC)
+> [🔗 GitHub 과제 보기](https://github.com/DKU-IRDM-Classroom/25Fa-CC-Assignment-2-karuem)
+
+- NRZ-I 인코딩을 통한 디지털 신호 변환  
+- BPSK 변조를 이용한 아날로그 신호 생성  
+- 두 개 이상의 채널을 FDM(Frequency Division Multiplexing)으로 다중화  
+- `find_frequencies()` 함수를 구현하여 주파수 검출 수행  
+- `fdm.py` 기반으로 신호 합성 및 분리 기능 구현  
+- Python의 `numpy`, `matplotlib`를 활용한 신호 시각화  
+---
+
 ## 🌱 학습 및 목표 (Learning Goals)
 - Spring Boot를 이용한 백엔드 개발 심화  
 - RESTful API 설계 및 데이터베이스 연동 학습  
