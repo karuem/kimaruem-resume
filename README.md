@@ -124,31 +124,12 @@ matplotlib과 NumPy를 활용하여 PCM 신호 분석 결과를 시각화했으�
 
 ## 🧠 프로젝트 경험 (Projects)
 
-### 🗂 **주간 일정 관리 앱 (C 언어)**
-- 요일별 스케줄을 동적 메모리로 관리  
-- 완료 시 메모리 자동 해제 (`malloc`, `free`)  
-- 파일 입출력(`fscanf`, `fprintf`)을 통한 일정 저장 기능 구현  
-
---- 
-
-### 🧮 PCM 신호 분석 프로그램 (Python, DSP)
-> [🔗 GitHub 과제 보기](https://github.com/DKU-IRDM-Classroom/25Fa-CC-Asssignment-1-karuem)
-
-- PCM, DPCM, ADPCM 알고리즘 구현  
-- Shannon-Fano 코딩 기반 데이터 압축  
-- matplotlib을 이용한 신호 시각화
-
----
-
-### 📡 BPSK-FDM 신호 다중화 프로그램 (Python, CC)
-> [🔗 GitHub 과제 보기](https://github.com/DKU-IRDM-Classroom/25Fa-CC-Assignment-2-karuem)
-
-- NRZ-I 인코딩을 통한 디지털 신호 변환  
-- BPSK 변조를 이용한 아날로그 신호 생성  
-- 두 개 이상의 채널을 FDM(Frequency Division Multiplexing)으로 다중화  
-- `find_frequencies()` 함수를 구현하여 주파수 검출 수행  
-- `fdm.py` 기반으로 신호 합성 및 분리 기능 구현  
-- Python의 `numpy`, `matplotlib`를 활용한 신호 시각화  
+| 프로젝트 주제                                  | 프로젝트 설명                                                                                                                                         | GitHub 링크                                                                                  |
+| :--------------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------- |
+| 🗂 **주간 일정 관리 앱 (C 언어)**                 | 요일별 스케줄을 동적 메모리로 관리하고, 일정 완료 시 `malloc` / `free` 로 메모리를 자동 해제하도록 구현. <br> `fscanf`, `fprintf` 를 이용해 일정 파일 입출력 기능 추가.                            | —                                                                                          |
+| 🧮 **PCM 신호 분석 프로그램 (Python, DSP)**      | PCM / DPCM / ADPCM 알고리즘을 구현하고, Shannon-Fano 코딩 기반 데이터 압축 수행. <br> `matplotlib` 으로 신호를 시각화하여 데이터 변환 과정을 확인할 수 있도록 개발.                            | [🔗 GitHub Repository](https://github.com/DKU-IRDM-Classroom/25Fa-CC-Asssignment-1-karuem) |
+| 📡 **BPSK-FDM 신호 다중화 프로그램 (Python, CC)** | NRZ-I 인코딩된 디지털 신호를 BPSK로 변조하고, 두 채널의 신호를 FDM(Frequency Division Multiplexing)으로 다중화. <br> `find_frequencies()` 함수를 구현해 주파수 검출 수행 및 신호 분리 기능 완성. | [🔗 GitHub Repository](https://github.com/DKU-IRDM-Classroom/25Fa-CC-Assignment-2-karuem)  |
+  
 ---
 
 ## 🌱 학습 및 목표 (Learning Goals)
